@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ROY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/d988e63892b59dc6874ac8b0dae42b38/1759366062679/channel-1/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ROY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/9c3df54d0eec843c27bd794865b03367/1759366146895/rchtwtx/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/44f331acc2c113803f68a1722f02cb49/1759366496049/channel-6/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV BRUCE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/8c41883cb837f00a1ac7f11f9bbc67e6/1759366870607/channel-15/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ASTRA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/4f8d2cad5f85130619eb9f85fcb4ba31/1759367222500/channel-11/channel-11.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ZARA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/961fccf00bf0c744998ce4d806fb4dd5/1759367297795/channel-14/channel-14.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV LOUIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/ad7e39f92c2482d9b30f9a4fbaa8a94d/1759367398964/channel-2/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV XMEN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/b01043414c0f0d32b0808e1587a158e8/1759367479466/channel-13/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV JAY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/9c4326c83c2331d32c1b600de36c6514/1759367782440/channel-8/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV MON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/e5fd52898330bc8502922b06ea324422/1759367857917/channel-20/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV LUCKY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://mv-c767f67a88.fast5cdn.net/0468f1f71324c9880a1a6054fb7df1ac/1759368699093/channel-16/index.m3u8
+
