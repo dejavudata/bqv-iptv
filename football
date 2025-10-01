@@ -59,8 +59,8 @@ https://live.alilicloud.com/live/3defc204a521fe4c88d58731fe074715/playlist.m3u8
 https://live.alilicloud.com/live/41918013fd173b109999dcdb4887a75a/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/c0b0dee5c32925aeec7a316df4de704c.png",20h45 ngày 01/10 FC Istiklol Dushanbe vs FC Goa 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/91f825b3d33b561e9866264d0180bafb/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/6e99c7c317e2f4274aa52d1f96b2e9bc/1759372176759/y2f69yo/index.m3u8
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV LUCKY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
