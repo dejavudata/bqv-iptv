@@ -4,11 +4,6 @@
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://mv-c767f67a88.fast5cdn.net/d988e63892b59dc6874ac8b0dae42b38/1759366062679/channel-1/index.m3u8
 
-#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ROY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/9c3df54d0eec843c27bd794865b03367/1759366146895/rchtwtx/index.m3u8
-
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
@@ -22,12 +17,12 @@ https://mv-c767f67a88.fast5cdn.net/8c41883cb837f00a1ac7f11f9bbc67e6/175936687060
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ASTRA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://mv-c767f67a88.fast5cdn.net/4f8d2cad5f85130619eb9f85fcb4ba31/1759367222500/channel-11/channel-11.m3u8
+https://mv-c767f67a88.fast5cdn.net/4f8d2cad5f85130619eb9f85fcb4ba31/1759367222500/channel-11/index.m3u8
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ZARA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://mv-c767f67a88.fast5cdn.net/961fccf00bf0c744998ce4d806fb4dd5/1759367297795/channel-14/channel-14.m3u8
+https://mv-c767f67a88.fast5cdn.net/961fccf00bf0c744998ce4d806fb4dd5/1759367297795/channel-14/index.m3u8
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV LOUIS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -37,7 +32,7 @@ https://mv-c767f67a88.fast5cdn.net/ad7e39f92c2482d9b30f9a4fbaa8a94d/175936739896
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV XMEN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://mv-c767f67a88.fast5cdn.net/78930105cb7212327a9a46c61ace1a3d/1759372108836/channel-13/channel-13.m3u8
+https://mv-c767f67a88.fast5cdn.net/78930105cb7212327a9a46c61ace1a3d/1759372108836/channel-13/index.m3u8
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV JAY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(m3u-ip.tv 2.3.7) Samsung AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
