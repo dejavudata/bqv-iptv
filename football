@@ -49,21 +49,13 @@ https://mv-c767f67a88.fast5cdn.net/9c4326c83c2331d32c1b600de36c6514/175936778244
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://mv-c767f67a88.fast5cdn.net/e5fd52898330bc8502922b06ea324422/1759367857917/channel-20/index.m3u8
 
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/9f2f4707847056c1cb44bf042900e29d.png",20h30 ngày 01/10 Unicov vs Sigma Olomouc B 1 (Bún Chả1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/3defc204a521fe4c88d58731fe074715/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/6cd99de5c2dbdb47e3e1d6dc02dfb15f.png",20h45 ngày 01/10 FK Andijon vs Al-Ahli Doha 1 (Bún Chả1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/41918013fd173b109999dcdb4887a75a/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/c0b0dee5c32925aeec7a316df4de704c.png",20h45 ngày 01/10 FC Istiklol Dushanbe vs FC Goa 1 (Bún Chả1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/6e99c7c317e2f4274aa52d1f96b2e9bc/1759372176759/y2f69yo/index.m3u8
-
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV LUCKY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://mv-c767f67a88.fast5cdn.net/0468f1f71324c9880a1a6054fb7df1ac/1759368699093/channel-16/index.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ZARA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=2287ca3fdf495c67fce859c072168e7f&wsABSTime=1759410665
+
 
