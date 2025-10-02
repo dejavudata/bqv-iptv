@@ -61,4 +61,7 @@ https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=544bc05bbb0edd14d2a595b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://mv-c767f67a88.fast5cdn.net/0a350475efea3c56ee1c0307ad1f24fe/1759417318722/channel-28/index.m3u8
 
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TUTA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://mv-c767f67a88.fast5cdn.net/35c194193809f9f5446d922b93da3dce/1759434174704/channel-3/index.m3u8
 
