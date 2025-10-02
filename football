@@ -54,8 +54,11 @@ https://mv-c767f67a88.fast5cdn.net/e5fd52898330bc8502922b06ea324422/175936785791
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://mv-c767f67a88.fast5cdn.net/0468f1f71324c9880a1a6054fb7df1ac/1759368699093/channel-16/index.m3u8
 
-#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV ZARA HD
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TONI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=2287ca3fdf495c67fce859c072168e7f&wsABSTime=1759410665
+https://mv-c767f67a88.fast5cdn.net/7d4b510bb9baa73df821856e03852f2e/1759417126205/channel-9/channel-9.m3u8
+
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TONI ko PLAYER
+#EXTVLCOPT:https://mv-c767f67a88.fast5cdn.net/7d4b510bb9baa73df821856e03852f2e/1759417126205/channel-9/channel-9.m3u8
 
 
