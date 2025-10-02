@@ -51,10 +51,11 @@ https://mv-c767f67a88.fast5cdn.net/0468f1f71324c9880a1a6054fb7df1ac/175936869909
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TONI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://mv-c767f67a88.fast5cdn.net/7d4b510bb9baa73df821856e03852f2e/1759417126205/channel-9/index.m3u8
+https://mv-c767f67a88.fast5cdn.net/cc689d928db09617e768e84cf937dc8f/1759418057852/channel-9/channel-9.m3u8
 
-#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TONI ko PLAYER
-#EXTVLCOPT:https://mv-c767f67a88.fast5cdn.net/7d4b510bb9baa73df821856e03852f2e/1759417126205/channel-9/index.m3u8
+#EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV TONI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=544bc05bbb0edd14d2a595b96babac9a&wsABSTime=1759418160
 
 #EXTINF:0 group-title="Xoilacz.co" tvg-logo="", BLV OLDER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
